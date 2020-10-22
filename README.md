@@ -1,6 +1,6 @@
 # notgfxCFG
 
-[![Build Status]
+[![Build Status]]
 
 1. How to install:
 
