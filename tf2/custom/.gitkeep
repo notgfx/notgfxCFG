@@ -1,0 +1,21 @@
+├── js
+│   ├── app.js
+│   └── system.js
+├── scss
+│   ├── system.scss
+│   └── theme.scss
+└── Steamapps
+    ├── Team Fortress 2       <-- Убрать
+    │   ├── load-json-file
+    │   ├── lodash
+    │   ├── tf2
+    │   │   └──custom        <-- Оставить
+    │   ├── make-error
+    │   ├── semantic
+    │   └── yargs
+    └── semantic.json
+	
+/Team Fortress 2/*
+/Team Fortress 2/tf2*
+!/Team Fortress 2/tf2
+!/Team Fortress 2/tf2custom/
