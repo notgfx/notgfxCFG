@@ -1,5 +1,7 @@
 # notgfxCFG
 
+[![Build Status]
+
 1. How to install:
 
 Extract the archive to any convenient place, copy the contents of "notgfx cfg v1.1.x" to the Team Fortress 2 folder.

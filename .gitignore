@@ -4,5 +4,7 @@
 /tf/*
 !/tf/custom/
 /tf/custom/workshop
-!*.gitignore
+
 *.cache
+*~
+!*.gitignore
