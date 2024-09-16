@@ -12,7 +12,7 @@ Extract "tf" folder from the archive in that directory, accept merge.
 ### 2. How to uninstall: 
 
 If you dont have any other custom mods, like hud - you just can delete "custom" folder from *"C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\"* path. 
-Ptherwise delete the contet from the archive from *"C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"* folder.
+Otherwise delete the contet from the archive from *"C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"* folder.
 
 ### 3. How to update:
 
