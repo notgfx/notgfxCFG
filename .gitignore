@@ -5,6 +5,7 @@
 !/tf/custom/
 /tf/custom/workshop
 
-*.cache
 *~
 !*.gitignore
+!*.gitattributes
+*.cache

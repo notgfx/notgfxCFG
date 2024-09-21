@@ -28,3 +28,7 @@ Finnaly, **binds** you can find in *\tf\custom\notgfx\cfg\binds.cfg*
 
 Also you need to change your settings preferably in cfg's from config pack, not from the game menu.  
 Changes from the game menu or console do **not** affect the final setting and will not be saved.
+
+There is launch parameters, that i prefer to use:
+-dxlevel 90 -full -w 1280 -h 720 -console -novid -useforcedmparms -noforcemaccel -noforcemspd
+
